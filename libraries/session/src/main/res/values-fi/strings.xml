@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Nyt toistetaan</string>
+  <string name="media3_controls_play_description">Toista</string>
+  <string name="media3_controls_pause_description">Keskeytä</string>
+  <string name="media3_controls_seek_to_previous_description">Siirry edelliseen</string>
+  <string name="media3_controls_seek_to_next_description">Siirry seuraavaan</string>
+  <string name="media3_controls_seek_back_description">Siirry taaksepäin</string>
+  <string name="media3_controls_seek_forward_description">Siirry eteenpäin</string>
+  <string name="authentication_required">Todennus vaaditaan</string>
+  <string name="legacy_error_message_fallback">Ei virheviestiä</string>
+</resources>
